@@ -29,13 +29,13 @@ An API built on Django-REST framework. This API records values like names and cr
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/adityaraj-mishra/.git
+git clone https://github.com/adityaraj-mishra/Rest-API.git
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd 
+cd Rest-API
 
 ```
 
